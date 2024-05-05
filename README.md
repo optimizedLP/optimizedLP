@@ -1,7 +1,7 @@
 ## Hey, I'm Dhruv 👋
 
-I'm a grad student at Columbia University studying Operations Research & Analytics.<br>
-I'm passionate about decision making, predictive analytics & mathematical programming!
+* I'm a grad student at Columbia University studying Operations Research & Analytics.<br>
+* I'm passionate about decision making, predictive analytics & mathematical programming!
 
 
 ###

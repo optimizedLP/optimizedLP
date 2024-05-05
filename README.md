@@ -13,7 +13,9 @@ I'm passionate about decision making, predictive analytics & mathematical progra
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="readme_gif.gif"  />
+
+<br><br>
 
 ###
 
@@ -33,29 +35,7 @@ I'm passionate about decision making, predictive analytics & mathematical progra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/optimizedLP/optimizedLP/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
-
-
-
-
-
-<!--
-- Check out my [website](https://www.miraya.tech/) to learn more about me.
-- Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.
-- In my [Newsletter](https://mirayatech.substack.com/), I share my learnings and tips to become a better developer. 
- -->
+<br><br>
 
  <!--
 ## 📦 Toolbox

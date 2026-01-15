@@ -5,13 +5,9 @@
 </h1>
 
 <!-- ## Hey, I'm Dhruv 👋 -->
-📌 Analytics & Optimization — Python • R • SQL  
-
-🎓 Columbia University (MS) — Operations Research  
-🎓 UC Davis (BS) — Mathematical Analytics & Statistics  
-
-🛠️ Building and deploying predictive models for real data challenges  
-📈 Exploring ML techniques and optimization algorithms in practice  
+- 📌 Analytics & Optimization — Python • R • SQL  
+- 🛠️ Building and deploying predictive models for real data challenges  
+- 📈 Exploring ML techniques and optimization algorithms in practice  
 
 
 ###

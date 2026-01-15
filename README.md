@@ -6,8 +6,8 @@
 
 <!-- ## Hey, I'm Dhruv 👋 -->
 💻 Operations Research & Analytics | Predictive Modeling & Optimization<br><br>
-🎓 Columbia University, MS in Operations Research & Analytics<br>
-🎓 UC Davis, BS in Mathematical Analytics & Statistics<br><br>
+🎓 Columbia University (MS Operations Research & Analytics)<br>
+🎓 University of California, Davis (BS Mathematical Analytics & Statistics)<br><br>
 📊 Exploring analytics, data-driven solutions, and algorithmic approaches to complex problems
 
 

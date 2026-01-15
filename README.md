@@ -5,7 +5,8 @@
 </h1>
 
 <!-- ## Hey, I'm Dhruv 👋 -->
-<h3 align="center">Analytics & Optimization</h3>
+<h3 align="center">Analytics & Optimization</h3><br>
+
 - 🛠️ Building and deploying predictive models for real data challenges  
 - 📈 Exploring ML techniques and optimization algorithms in practice  
 

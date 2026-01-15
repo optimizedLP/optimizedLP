@@ -5,10 +5,13 @@
 </h1>
 
 <!-- ## Hey, I'm Dhruv 👋 -->
-💻 Operations Research & Analytics | Predictive Modeling & Optimization<br><br>
-🎓 Columbia University -- MS Operations Research<br>
-🎓 University of California, Davis -- BS Mathematical Analytics & Statistics<br><br>
-📊 Exploring analytics, data-driven solutions, and algorithmic approaches to complex problems
+📌 Analytics & Optimization — Python • R • SQL  
+
+🎓 Columbia University (MS) — Operations Research  
+🎓 UC Davis (BS) — Mathematical Analytics & Statistics  
+
+🛠️ Building and deploying predictive models for real data challenges  
+📈 Exploring ML techniques and optimization algorithms in practice  
 
 
 ###

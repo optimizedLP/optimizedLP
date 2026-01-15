@@ -5,9 +5,10 @@
 </h1>
 
 <!-- ## Hey, I'm Dhruv 👋 -->
-🔬 I'm a grad student at Columbia University studying Operations Research & Analytics.<br><br>
-🎓 Graduated from University of California, BS Mathematical Analytics & Statistics <br><br>
-💻📚 I'm passionate about decision making, predictive analytics & mathematical programming!
+💻 Operations Research & Analytics | Predictive Modeling & Optimization<br><br>
+🎓 Columbia University, MS in Operations Research & Analytics<br>
+🎓 UC Davis, BS in Mathematical Analytics & Statistics<br><br>
+📊 Exploring analytics, data-driven solutions, and algorithmic approaches to complex problems
 
 
 ###
